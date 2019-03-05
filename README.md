@@ -1,5 +1,5 @@
 # YOUdp
-File transfer on UDP
+File transfer on UDP. University of Rome, Tor Vergata. Project made for the exam of 'Ingegneria di Internet e Web' 2019.
 
 
             __________________________________________________
