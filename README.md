@@ -1,5 +1,5 @@
 # YOUdp
-File transfer on UDP. University of Rome, Tor Vergata. Project made for the exam of 'Ingegneria di Internet e Web' 2019.
+University of Rome, Tor Vergata. Project made for the exam of 'Ingegneria di Internet e Web' 2019.
 
 
             __________________________________________________
@@ -13,7 +13,7 @@ File transfer on UDP. University of Rome, Tor Vergata. Project made for the exam
             ____________________________________p_____________
             __________________________________________________
                                 YOUdp 1.0
-
+File transfer on UDP.
 
 
 These instructions will get you a copy of the project and running on your local 
@@ -97,7 +97,9 @@ each byte and returns if they are the same. It's only for testing purposes
 because files, that has been sent, are always the same.
 
 
+
 Thanks for your attention. 
+
 
 
 ## Authors
