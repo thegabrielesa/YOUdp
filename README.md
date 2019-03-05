@@ -20,13 +20,13 @@ These instructions will get you a copy of the project and running on your local
 machine for development and testing purposes.
 
 
-## 1. PREREQUISITES
+## 1. Prerequisites
 
 Please unzip the folder YOUdp in a path you choose and remember how it's 
 located for the future time.
 
 
-### 2.1 SERVER'S INITIALIZATION
+### 2.1 Server's initialization
 
 To install the software you need to open a terminal on YOUdp folder and digit 
 the command "make". After the compiling of the code, you are able to use the 
@@ -48,7 +48,7 @@ also type "-d" for debug mode, for testing purposes.
 Server has been configurated and is ready for use.
 
 
-### 2.2 CLIENT'S INITIALIZATION
+### 2.2 Client's initialization
 
 It's possible to configurate the client. Please go into the folder CLIENT, 
 which has location in ".../YOUDP/CLIENT", and open at least a terminal there.
@@ -73,7 +73,7 @@ For using it in localhost, you need to type address "127.0.0.1".
 If you want you can open other clients and communicate with server.
 
 
-### 3 CLIENT'S REQUEST
+### 3 Client's request
 
 If you want to download files from server, it's better to type before the 
 command "list". After that you can read which files are on the server and after 
@@ -83,13 +83,13 @@ If you need to know the status of your download/upload, you need to use the
 command "stat". It shows the last 10 operations that you have made.
 
 
-### 4 QUIT
+### 4 Quit
 
 It's possibile to close client's console by typing the command "exit". It will 
 terminate client's execution after the ending of any transmission.
 
 
-### 5 FILE COMPARISON
+### 5 File comparison
 
 If it is necessary, you can compare two files to know if they are the same with 
 the "file_compare" executable. It compares two files, given by their path, by 
@@ -97,8 +97,10 @@ each byte and returns if they are the same. It's only for testing purposes
 because files, that has been sent, are always the same.
 
 
-
-
-
-This product has been created by thegabrielesa, cesko & tom. 
 Thanks for your attention. 
+
+
+## Authors
+* **thegabrielesa**
+* **cesko**
+* **tom**
